@@ -1,0 +1,11 @@
+{
+	"name": "kurea-external-test",
+	"description": "Useless!",
+	"version": "0.0.0",
+	"license": "MIT",
+	"main": "index.coffee",
+	"author": "Raymond Hammarling",
+	"dependencies": {
+
+	}
+}
