@@ -3,7 +3,7 @@ module.exports = (Module) ->
 	class ExternalTestModule extends Module
 		shortName: 'ExternalTest'
 		helpText:
-			default: 'testin 2'
+			default: 'testin 65'
 		  
 		constructor: (moduleManager) ->
 			super
